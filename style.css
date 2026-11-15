@@ -11,7 +11,7 @@ h2{font:bold 15px Georgia,"Times New Roman",serif;color:#1f3a68;border-bottom:1p
 .c{border:1px solid #7a8aa0;background:#fbfcfe;padding:8px 10px;margin:10px 14px;overflow:hidden}
 .c h2{font:bold 12px Verdana,Arial,sans-serif;text-transform:uppercase;margin:-8px -10px 8px;padding:3px 10px;background:linear-gradient(#e3eaf4,#c3d0e3);border-bottom:1px solid #7a8aa0}
 img.fl{float:left;width:120px;height:auto;margin:0 10px 4px 0;border:1px solid #7a8aa0;padding:2px;background:#fff}
-.ppl{display:flex;flex-wrap:wrap;justify-content:center}.ppl .c{flex:0 1 220px;text-align:center}.ppl img{width:100px;height:auto;border:1px solid #7a8aa0;padding:2px;background:#fff}
+.ppl{display:flex;flex-wrap:wrap;justify-content:center}.ppl .c{flex:0 1 220px;text-align:center}.ppl img{width:100px;height:80px;object-fit:cover;object-position:center top;border:1px solid #7a8aa0;padding:2px;background:#fff}
 .s{color:#555;font-style:italic}.t{text-align:center}.note{font-size:11px;color:#555}.e{text-align:center;color:#666;padding:6px}
 ul{list-style:square;padding-left:22px;margin:5px 0}ol{padding-left:24px;margin:5px 0}
 .ft{border-top:1px solid #7a8aa0;margin-top:16px!important;padding-top:8px;text-align:center;font-size:11px;color:#555}

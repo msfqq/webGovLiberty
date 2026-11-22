@@ -18,3 +18,9 @@ ul{list-style:square;padding-left:22px;margin:5px 0}ol{padding-left:24px;margin:
 .cnt{font-family:"Courier New",monospace;background:#000;color:#3f3;padding:1px 5px;letter-spacing:2px}
 .strip{margin-top:10px!important;margin-bottom:10px!important;border:1px solid #7a8aa0;padding:2px;background:#fff}.strip img{display:block;width:100%;height:auto}
 img.fl.lg{border:0;padding:0;background:none;width:90px;margin-right:12px}img.fl.ph{width:160px}.c ul,.c ol{overflow:hidden}
+.jb{display:flex;align-items:center;gap:16px;padding:4px 0}.jb img{flex:none;width:200px;height:auto;border:1px solid #7a8aa0;padding:2px;background:#fff}.jb p{margin:0}
+.sb{border:1px solid #7a8aa0;padding:2px;background:#fff;margin:0 0 10px}.sb img{display:block;width:100%;height:auto}
+.ni{text-align:center;padding:12px 0 14px;border-bottom:1px solid #c9d1dc}.ni:last-child{border-bottom:0}
+.ni .sb{margin-bottom:8px}.ni .nt{margin:0}.ni .nt a{color:#555;text-decoration:none;text-transform:uppercase;font-size:12px}.ni .nt a:hover{color:#cc0000}.ni .more{display:inline-block;margin-top:3px}
+.art{padding:10px 14px}.art p{margin:0 0 10px;text-align:justify}.art blockquote{margin:10px 0 4px;padding:6px 12px;border-left:3px solid #7a8aa0;background:#f1f4f9;color:#222}.art .by{margin:0 0 12px;text-align:right}
+a.sb{display:block}
